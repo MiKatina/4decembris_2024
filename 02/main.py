@@ -1,4 +1,4 @@
-""" Method 1 """
+""" Method 1 """ 
 
 num = int(input("Give me a number to check: ")) # prasa ievadīt skaitli
 check = int(input("Give me a number to divide by: ")) # ievadīt skaitli ar kuru tiks dalīts
